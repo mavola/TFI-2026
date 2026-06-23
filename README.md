@@ -2,7 +2,7 @@
 ## Integrantes del equipo
 - Mariano Avola
 ## Carrera
-Tecnicatura en telecomunicaciones
+Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
 Programación
 ## Programa Utilizado
